@@ -90,7 +90,7 @@ Visualizations created using `seaborn` and `matplotlib`:
 
 ---
 
-## 📌 Key Insights (Optional)
+## 📌 Key Insights
 
 - Majority of Netflix content is **Movies**
 - The **USA, India, and UK** dominate content production
