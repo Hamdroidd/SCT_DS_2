@@ -61,8 +61,6 @@ Visualizations created using `seaborn` and `matplotlib`:
 
 ## 📈 Sample Visualizations
 
-> (Add your own images or outputs from Google Colab here)
-
 - Content Type Distribution
 - Country-wise Production
 - Yearly Release Trends
